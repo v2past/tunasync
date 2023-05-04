@@ -14,6 +14,9 @@ https://github.com/tuna/tunasync/blob/master/docs/zh_CN/get_started.md
 前端：
 https://github.com/tuna/mirror-web
 https://github.com/iori2333/Mira
+https://github.com/hitlug/mirror-web
+https://mirrors.njupt.edu.cn/#
+https://github.com/NJUPT-Mirrors-Group/mirror-web
 
 https://github.com/weyo/mirrors
 
