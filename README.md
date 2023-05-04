@@ -1,4 +1,11 @@
 # 国内开源镜像站点汇总 
+
+# 核心参照
+[南科技大学工具](https://github.com/SUSTech-CRA/awesome-sustech-service-tools)
+[镜像源](https://mirrors.sustech.edu.cn/)
+[mirror-web](https://github.com/SUSTech-CRA/ccse-mirrors-web)
+
+
 ## 一、站点版
 ### （一）、企业站
 1. 网易：[https://mirrors.163.com/](https://mirrors.163.com/)（2021.2已用容量估计：13.9T）
