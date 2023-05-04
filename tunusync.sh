@@ -22,6 +22,7 @@ https://github.com/weyo/mirrors
 
 脚本：
 https://github.com/tuna/tunasync-scripts
+http://mirrors.njupt.edu.cn/mirrordsync.json
 
 
 部署参考：
