@@ -7,6 +7,7 @@ https://mirrors.pku.edu.cn/Help/Ubuntu
 https://mirrors.nju.edu.cn/
 
 
+
 后端：
 https://github.com/tuna/tunasync/blob/master/docs/zh_CN/get_started.md
 
@@ -14,3 +15,5 @@ https://github.com/tuna/tunasync/blob/master/docs/zh_CN/get_started.md
 https://github.com/tuna/mirror-web
 https://github.com/iori2333/Mira
 
+脚本：
+https://github.com/tuna/tunasync-scripts
